@@ -16,5 +16,6 @@ public class ClientReservation {
         System.out.println(reservation2.getReservation());
         System.out.println(reservation1.compareTo(reservation2));
         System.out.println(reservation2.compareTo(reservation2));
+        System.out.println("hello");
     }
 }
